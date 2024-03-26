@@ -1,0 +1,3 @@
+https://github.com/bezkoder/angular-17-jwt-auth
+
+https://github.com/wladimilson/jax-rs-example
