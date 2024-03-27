@@ -1,3 +1,5 @@
 https://github.com/bezkoder/angular-17-jwt-auth
 
 https://github.com/wladimilson/jax-rs-example/tree/6be5a7f7e346375b6c0de248bed8ea38c7ba3b4e
+
+https://www.hostinger.com.br/tutoriais/listar-servicos-linux
