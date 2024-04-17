@@ -5,3 +5,7 @@ https://github.com/wladimilson/jax-rs-example/tree/6be5a7f7e346375b6c0de248bed8e
 https://www.hostinger.com.br/tutoriais/listar-servicos-linux
 
 https://www.youtube.com/watch?v=D1g6RW4oJEs
+
+https://github.com/pushpa-raj-dangi/Ng17Dotnet8RoleBaseAuthJWT
+
+https://www.youtube.com/watch?v=onDirBCVed8
